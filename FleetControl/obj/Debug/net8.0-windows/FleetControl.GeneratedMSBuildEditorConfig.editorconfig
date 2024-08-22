@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FleetControl
-build_property.ProjectDir = C:\Users\PSumm\Github\FleetControl_VBNet\FleetControl\
+build_property.ProjectDir = C:\Users\pauls\GitHub\FleetControl_VBNet\FleetControl\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
