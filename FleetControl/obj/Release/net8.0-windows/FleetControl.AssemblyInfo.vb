@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("FleetControl"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+975c3a1b53fff58129c9d837276cd05d33bdbf9e"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bd925d16a3b0fff994f2ceace4d79987832ae5c"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("FleetControl"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("FleetControl"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
